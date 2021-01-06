@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: noahti.github.io
-Token: ed74a709985f7e2e3db5c217ac7d5c947d25d002d211c75ced0d35f124207b46
